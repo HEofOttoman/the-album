@@ -1,2 +1,2 @@
 # the-album
-My strudel shenanigans
+My [strudel](https://strudel.cc) shenanigans
